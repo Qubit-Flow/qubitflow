@@ -1,0 +1,20 @@
+[project]
+name = "qubitflow"
+version = "0.1.0"
+description = "A modular and scalable quantum computing framework inspired by TensorFlow and PyTorch."
+authors = [
+  { name="Your Name", email="you@example.com" }
+]
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+
+dependencies = [
+  "numpy",
+  "matplotlib"
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
