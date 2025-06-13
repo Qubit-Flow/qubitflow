@@ -1,6 +1,6 @@
-# QubitFlow ⚛️
+# QubitFlow
 
-**QubitFlow** is an open-source quantum computing framework designed to be intuitive, scalable, and modular — bringing the simplicity of TensorFlow and PyTorch to the quantum world.
+**QubitFlow** is an open-source quantum computing framework based on python designed to be intuitive, scalable, and modular — bringing the simplicity of TensorFlow and PyTorch to the quantum world.
 
 🚧 **Currently Under Active Development**  
 We are laying the foundations for a robust, user-friendly quantum programming interface. The initial push will be live soon!
